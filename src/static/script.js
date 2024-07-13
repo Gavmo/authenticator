@@ -1,0 +1,2 @@
+var bcrypt = dcodeIO.bcrypt;
+
